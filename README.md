@@ -5,3 +5,4 @@
 采用AES加密将文件和摘要
 算法：file2.py
 测试：file2test.py
+差分隐私发布、保序加密：safety
